@@ -1,0 +1,13 @@
+{
+  "msp": {
+    "identifier": "Org1MSP"
+  },
+  "administrator": {
+    "logOn": "Admin@org1.example.com",
+    "password": "adminpw"
+  },
+  "chainCode": {
+    "name": "sample",
+    "version": "1"
+  }
+}
